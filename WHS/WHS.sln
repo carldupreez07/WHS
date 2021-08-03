@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31521.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WHS", "WHS\WHS.csproj", "{9DAFB240-7A73-4569-8B4E-CAE09EA32C4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WHS.API", "WHS.API\WHS.API.csproj", "{7F0D1E4D-E3A0-47C2-858B-813FF34DDA8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DAFB240-7A73-4569-8B4E-CAE09EA32C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAFB240-7A73-4569-8B4E-CAE09EA32C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAFB240-7A73-4569-8B4E-CAE09EA32C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAFB240-7A73-4569-8B4E-CAE09EA32C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F0D1E4D-E3A0-47C2-858B-813FF34DDA8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0D1E4D-E3A0-47C2-858B-813FF34DDA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0D1E4D-E3A0-47C2-858B-813FF34DDA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0D1E4D-E3A0-47C2-858B-813FF34DDA8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {373684D2-7EDC-40F5-B0C8-E629B2DA8ADB}
+	EndGlobalSection
+EndGlobal
